@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-//tanpa parameter, tanpa return
+//bisa dengan parameter, namun tanpa return
 void siswa()
 {
     string name = "Alex";
