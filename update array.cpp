@@ -69,9 +69,6 @@ int main()
             }
             std::cout << "===============================" << endl;
             break;
-        case 3:
-            choice = 3;
-            break;
         default:
             break;
         }
